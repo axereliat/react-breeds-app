@@ -1,1 +1,1 @@
-# react-breeds-app
+# Dog Breeds Application
